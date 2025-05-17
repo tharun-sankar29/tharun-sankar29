@@ -65,10 +65,25 @@ Exploring the maze of computer science, passionate about building robust softwar
 - 🌱 Always learning, currently exploring advanced AI and agent frameworks.
 
 ---
+---
 
-## ✏️ Blog & Links
+## 🚩 Featured Projects
 
-- [Personal Blog](https://www.thisisvoid.in/)
+- [🧠 AI Tutor](https://github.com/tharun-sankar29/ai-tutor) — A JEE/NEET-focused AI assistant using OpenAI and Retrieval-Augmented Generation (RAG).
+- [🎥 Parallel Frame Differencing](https://github.com/tharun-sankar29/video-differencing) — Real-time video change detection using Python multiprocessing and computer architecture concepts.
+
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunsankar/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tharun_sankar_)
+[![Blog](https://img.shields.io/badge/-Blog-0A0A0A?style=flat&logo=hashnode&logoColor=white)](https://www.thisisvoid.in/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://tharun-sankar29.github.io/)
+
+---
+
 
 ---
 
