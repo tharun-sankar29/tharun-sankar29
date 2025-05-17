@@ -21,7 +21,8 @@ Exploring the maze of computer science, passionate about building robust softwar
   <tr>
     <td>
       <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tharunsankar&show_icons=true&theme=tokyonight&count_private=true" alt="stats" />
-      <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunsankar&layout=compact&theme=tokyonight" alt="top languages" />
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunsankar&layout=compact&theme=tokyonight)
+
     </td>
     <td>
       <img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunsankar&theme=tokyonight" alt="consistency" />
