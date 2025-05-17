@@ -15,7 +15,7 @@
 - 💬 Ask me about: `Go`, `Python`, `C++`, `OpenAI`, `Next.js`, `Convex`, `Arch Linux (Hyprland)`
 - 🧑‍💼 Completed an internship in 1st year — working with startups & aiming for big tech next!
 - 💡 Participated in my first hackathon recently — more to come!
-- 📫 Reach me at: `tharunr.cs@gmail.com`
+- 📫 Reach me at: `tharunsankarmohanraj@gmail.com`
 
 ---
 
