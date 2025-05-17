@@ -56,7 +56,10 @@ Exploring the maze of computer science, passionate about building robust softwar
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="60" height="60"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="60" height="60"/></a>
+ <a href="https://openai.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/openai/00A67E/ffffff" alt="OpenAI" width="60" height="60"/>
+</a>
+
 
 </p>
 
