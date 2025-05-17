@@ -1,8 +1,6 @@
 <!-- Profile Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/tharun-sankar29?logo=GitHub&style=flat)](https://github.com/tharun-sankar29)
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=flat&label=Twitter)](https://twitter.com/fit_fr_nothing)
 ![Profile Views](https://komarev.com/ghpvc/?username=tharun-sankar29&style=flat)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-TheVoidD1-red?logo=youtube&logoColor=white)](https://www.youtube.com/@thevoidd1)
 
 # 👋 Hi, I'm Tharun Sankar
 
