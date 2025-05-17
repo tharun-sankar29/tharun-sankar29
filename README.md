@@ -65,7 +65,6 @@ Exploring the maze of computer science, passionate about building robust softwar
 - 🌱 Always learning, currently exploring advanced AI and agent frameworks.
 
 ---
----
 
 ## 🚩 Featured Projects
 
@@ -82,7 +81,6 @@ Exploring the maze of computer science, passionate about building robust softwar
 [![Blog](https://img.shields.io/badge/-Blog-0A0A0A?style=flat&logo=hashnode&logoColor=white)](https://www.thisisvoid.in/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://tharun-sankar29.github.io/)
 
----
 
 
 ---
