@@ -1,79 +1,66 @@
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=flat&label=Twitter)](https://twitter.com/fit_fr_nothing)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/tharun-sankar29?logo=GitHub&style=flat)](https://github.com/tharun-sankar29)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=tharun-sankar29&style=flat)
+<!-- Banner Image (optional, replace with your own or remove if not needed) -->
+<!-- <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%"> -->
 
-<p align="center">
-  <a href="https://www.youtube.com/@thevoidd1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" />
-  </a>
-</p>
+# Hi there, I'm Tharun Sankar 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/tharunsankar?label=Follow&style=social)](https://github.com/tharunsankar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Personal Website](https://img.shields.io/badge/Website-visit-brightgreen)](https://yourwebsite.com)
 
 ---
 
-# 👋 Hi there, I’m Tharun Sankar  
-I’m just a curious soul navigating the maze of Computer Science.
+## 🚀 About Me
+
+- 💡 Passionate about building scalable software and exploring the frontiers of AI.
+- 🛠️ Skilled in **Go (Golang), C, C++, Python, JavaScript, Node.js, HTML, CSS, React, MongoDB, SQL**.
+- 🤖 Interested in **Machine Learning, Generative AI, Deep Learning (basics), and AI Agents**.
+- 👨‍💻 First-year internship: Automated a workflow using **ChatGPT AI** and **Golang**.
+- 🌱 Currently learning and experimenting with advanced AI and agent frameworks.
 
 ---
 
-<table>
-  <tr>
-    <th width="50%"><a href="https://github.com/tharun-sankar29?tab=overview#year-list-container">Stats</a></th>
-    <th width="50%"><a href="https://github.com/tharun-sankar29?tab=repositories">🌟 Turn Time</a></th>
-  </tr>
-  <tr>
-    <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-    </td>
-    <td>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-sankar29&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+## 🛠️ Languages & Tools
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tharun-sankar29&theme=tokyonight" alt="Trophies" />
-  </a>
-</p>
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=scikit-learn)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-333333?style=flat&logo=openai)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-333333?style=flat&logo=robotframework)
 
 ---
 
-## ✏️ Blog Posts
-- [thisisvoid.in](https://www.thisisvoid.in)
+## 📈 GitHub Stats
+
+![Tharun Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharunsankar&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunsankar&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharunsankar&theme=radical)
 
 ---
 
-## 🧰 My Toolbox
+## 🌟 Featured Projects
 
-### 🛠 Currently Working With
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" title="Go" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" title="MySQL" />
-  <img src="https://img.icons8.com/?size=100&id=UCFBwcNMFyWm&format=png&color=000000" width="36" title="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" title="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="36" title="Google Cloud" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="36" title="Raspberry Pi" />
-</p>
+- **Automated Workflow with ChatGPT & Golang**  
+  Automated business processes using OpenAI’s ChatGPT API and Go during my first-year internship.
 
-### 💡 Tools I’m Exploring
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" title="Kubernetes" />
-  <img src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=000000" width="36" title="Rust" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" title="Redis" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="36" title="Svelte" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" title="Sass" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" title="Spring" />
-</p>
+<!-- Add more project highlights as you wish -->
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Personal Website](https://img.shields.io/badge/Website-visit-brightgreen)](https://yourwebsite.com)
+
+<!--
+![Visitor Count](https://profile-counter.glitch.me/tharunsankar/count.svg)
+-->
+
