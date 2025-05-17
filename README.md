@@ -79,5 +79,5 @@ Exploring the maze of computer science, passionate about building robust softwar
 ---
 
 <!-- Contribution Snake Animation -->
-<!-- You must have GitHub Actions enabled and correct setup for this animation -->
 ![Contribution Snake](https://raw.githubusercontent.com/tharun-sankar29/tharun-sankar29/output/github-contribution-grid-snake-dark.svg)
+
