@@ -1,7 +1,7 @@
 <!-- Profile Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/tharunsankar?logo=GitHub&style=flat)](https://github.com/tharunsankar)
+[![GitHub followers](https://img.shields.io/github/followers/tharun-sankar29?logo=GitHub&style=flat)](https://github.com/tharun-sankar29)
 [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=flat&label=Twitter)](https://twitter.com/fit_fr_nothing)
-![Profile Views](https://komarev.com/ghpvc/?username=tharunsankar&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=tharun-sankar29&style=flat)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-TheVoidD1-red?logo=youtube&logoColor=white)](https://www.youtube.com/@thevoidd1)
 
 # 👋 Hi, I'm Tharun Sankar
@@ -17,18 +17,18 @@ Exploring the maze of computer science, passionate about building robust softwar
   </tr>
   <tr>
     <td>
-      <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tharunsankar&show_icons=true&theme=tokyonight&count_private=true" alt="stats" />
-      <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunsankar&layout=compact&theme=tokyonight" alt="top languages" />
+      <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tharun-sankar29&show_icons=true&theme=tokyonight&count_private=true" alt="stats" />
+      <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun-sankar29&layout=compact&theme=tokyonight" alt="top languages" />
     </td>
     <td>
-      <img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunsankar&theme=tokyonight" alt="consistency" />
+      <img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-sankar29&theme=tokyonight" alt="consistency" />
     </td>
   </tr>
 </table>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tharunsankar&theme=tokyonight&margin-w=10&margin-h=15" alt="tharunsankar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tharun-sankar29&theme=tokyonight&margin-w=10&margin-h=15" alt="tharun-sankar29 trophies" />
   </a>
 </p>
 
@@ -81,4 +81,5 @@ Exploring the maze of computer science, passionate about building robust softwar
 ---
 
 <!-- Contribution Snake Animation -->
-![Contribution Snake](https://raw.githubusercontent.com/tharunsankar/tharunsankar/output/github-contribution-grid-snake-dark.svg)
+<!-- You must have GitHub Actions enabled and correct setup for this animation -->
+![Contribution Snake](https://raw.githubusercontent.com/tharun-sankar29/tharun-sankar29/output/github-contribution-grid-snake-dark.svg)
