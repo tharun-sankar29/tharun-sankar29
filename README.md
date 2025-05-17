@@ -1,49 +1,79 @@
-<h1 align="center">Hi 👋, I'm Tharun Sankar</h1>
-<h3 align="center">B.Tech Computer Science student • Developer • Fast learner</h3>
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=flat&label=Twitter)](https://twitter.com/fit_fr_nothing)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/tharun-sankar29?logo=GitHub&style=flat)](https://github.com/tharun-sankar29)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=tharun-sankar29&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Building+cool+things+with+Go+and+Python.;Hackathon+ready+💻" />
+  <a href="https://www.youtube.com/@thevoidd1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Science student
-- 🚀 Currently building: **AI Tutor** – a RAG-based learning assistant using OpenAI
-- 🧠 Learning: **Parallel computing, OpenMP, CUDA, Next.js, Convex, MongoDB**
-- 💬 Ask me about: `Go`, `Python`, `C++`, `OpenAI`, `Next.js`, `Convex`, `Arch Linux (Hyprland)`
-- 🧑‍💼 Completed an internship in 1st year — working with startups & aiming for big tech next!
-- 💡 Participated in my first hackathon recently — more to come!
-- 📫 Reach me at: `tharunsankarmohanraj@gmail.com`
+# 👋 Hi there, I’m Tharun Sankar  
+I’m just a curious soul navigating the maze of Computer Science.
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,cpp,js,ts,html,css,nodejs,react,nextjs,tailwind,mongodb,express,git,github,linux,docker,bash,vercel&theme=light" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<table>
+  <tr>
+    <th width="50%"><a href="https://github.com/tharun-sankar29?tab=overview#year-list-container">Stats</a></th>
+    <th width="50%"><a href="https://github.com/tharun-sankar29?tab=repositories">🌟 Turn Time</a></th>
+  </tr>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+    </td>
+    <td>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-sankar29&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun-R&show_icons=true&theme=github_dark&hide=prs" alt="Tharun-R" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-R&theme=github-dark" alt="Tharun-R" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-R&layout=compact&theme=github_dark" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tharun-sankar29&theme=tokyonight" alt="Trophies" />
+  </a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tharun-r" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a href="mailto:tharunr.cs@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
-</p>
+## ✏️ Blog Posts
+- [thisisvoid.in](https://www.thisisvoid.in)
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+## 🧰 My Toolbox
+
+### 🛠 Currently Working With
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" title="Go" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" title="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" title="MySQL" />
+  <img src="https://img.icons8.com/?size=100&id=UCFBwcNMFyWm&format=png&color=000000" width="36" title="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" title="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="36" title="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="36" title="Raspberry Pi" />
+</p>
+
+### 💡 Tools I’m Exploring
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" title="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" title="Kubernetes" />
+  <img src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=000000" width="36" title="Rust" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" title="Redis" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="36" title="Svelte" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" title="Sass" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" title="Spring" />
+</p>
