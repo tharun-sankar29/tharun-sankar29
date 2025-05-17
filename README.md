@@ -2,10 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/tharunsankar?logo=GitHub&style=flat)](https://github.com/tharunsankar)
 [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=flat&label=Twitter)](https://twitter.com/fit_fr_nothing)
 ![Profile Views](https://komarev.com/ghpvc/?username=tharunsankar&style=flat)
-
-<a href="https://www.youtube.com/@thevoidd1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" />
-</a>
+[![YouTube Channel](https://img.shields.io/badge/YouTube-TheVoidD1-red?logo=youtube&logoColor=white)](https://www.youtube.com/@thevoidd1)
 
 # 👋 Hi, I'm Tharun Sankar
 
@@ -15,14 +12,13 @@ Exploring the maze of computer science, passionate about building robust softwar
 
 <table>
   <tr>
-    <th width="50%"><a align="center" href="https://github.com/tharunsankar?tab=overview#year-list-container?">Stats</a></th>
-    <th width="50%"><a align="center" href="https://github.com/tharunsankar?tab=repositories?">Consistency</a></th>
+    <th width="50%">Stats</th>
+    <th width="50%">Consistency</th>
   </tr>
   <tr>
     <td>
       <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tharunsankar&show_icons=true&theme=tokyonight&count_private=true" alt="stats" />
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunsankar&layout=compact&theme=tokyonight)
-
+      <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunsankar&layout=compact&theme=tokyonight" alt="top languages" />
     </td>
     <td>
       <img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunsankar&theme=tokyonight" alt="consistency" />
@@ -57,13 +53,8 @@ Exploring the maze of computer science, passionate about building robust softwar
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="60" height="60"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/></a>
- <a href="https://openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai/00A67E/ffffff" alt="OpenAI" width="60" height="60"/>
-</a>
-
-
+  <a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai/00A67E/ffffff" alt="OpenAI" width="60" height="60"/></a>
 </p>
-
 
 ---
 
@@ -85,9 +76,9 @@ Exploring the maze of computer science, passionate about building robust softwar
 
 ## 📊 Dev Quotes
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 <!-- Contribution Snake Animation -->
-![](https://raw.githubusercontent.com/tharunsankar/tharunsankar/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/tharunsankar/tharunsankar/output/github-contribution-grid-snake-dark.svg)
