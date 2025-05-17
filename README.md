@@ -76,10 +76,7 @@ Exploring the maze of computer science, passionate about building robust softwar
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunsankar/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tharun_sankar_)
-[![Blog](https://img.shields.io/badge/-Blog-0A0A0A?style=flat&logo=hashnode&logoColor=white)](https://www.thisisvoid.in/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://tharun-sankar29.github.io/)
+<p align="left"> <a href="mailto:tharunsankar2904@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/tharun-sankar/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/tharunsankar29" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/> </a> </p>
 
 
 
